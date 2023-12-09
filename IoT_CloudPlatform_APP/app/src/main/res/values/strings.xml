@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-ResAPI</string>
+    <string name="device_state">디바이스 최신 상태</string>
+    <string name="sunshine">SunShine </string>
+    <string name="condition">Condition </string>
+    <string name="condition_1">Condition이 1이면 블라인드 닫힘</string>
+    <string name="condition_2">Condition이 2이면 블라인드 반 열림</string>
+    <string name="condition_3">Condition이 3이면 블라인드 다 열림</string>
+</resources>
